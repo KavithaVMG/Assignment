@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4WXb+JqgmyFr8Lzpp9tR9Q2HF14lN90odlUCV1VF8vrMu4RYNIgBIWjjl7nJl2YqG428pslGaCvVfnfVcgnuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Kavitha\\Testing\\Employee\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k858383\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
