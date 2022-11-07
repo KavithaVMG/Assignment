@@ -1,0 +1,17 @@
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\Service.deps.json
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\Service.dll
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\Service.pdb
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\Common.dll
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\DAL.dll
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\Common.pdb
+C:\Kavitha\Testing\Employee\Service\bin\Debug\net6.0\DAL.pdb
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.dll
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\Service.pdb
+C:\Kavitha\Testing\Employee\Service\obj\Debug\net6.0\ref\Service.dll
